@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Wynncraft Voice Project
+Specification-Vendor: WVP Team
+Specification-Version: 1
+Implementation-Title: Basemod
+Implementation-Version: 1.01
+Implementation-Vendor: WVP Team
+Implementation-Timestamp: 2022-08-23T18:29:51+0300
+
